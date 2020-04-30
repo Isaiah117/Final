@@ -1,0 +1,9 @@
+C:\Users\isaia\source\repos\Final\Final\bin\Debug\Final.exe.config
+C:\Users\isaia\source\repos\Final\Final\bin\Debug\Final.exe
+C:\Users\isaia\source\repos\Final\Final\bin\Debug\Final.pdb
+C:\Users\isaia\source\repos\Final\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\isaia\source\repos\Final\Final\obj\Debug\Final.Form1.resources
+C:\Users\isaia\source\repos\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\isaia\source\repos\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\isaia\source\repos\Final\Final\obj\Debug\Final.exe
+C:\Users\isaia\source\repos\Final\Final\obj\Debug\Final.pdb
